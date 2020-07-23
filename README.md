@@ -1,2 +1,2 @@
-# seriouspython
-Trying out some strange ideas
+# seriousmusings
+Trying out some strange ideas with Python and Java
