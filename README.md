@@ -4,8 +4,10 @@
 
 Azure Repos
 
-https://github.com/Azure/azure-functions-java-worker/issues/324
-https://github.com/Azure/azure-functions-java-worker/pull/318/files
+- [Azure Functions Java Worker](https://github.com/Azure/azure-functions-java-worker/issues/324)
+
+- [Existing PR for Java Functions DI](https://github.com/Azure/azure-functions-java-worker/pull/318/files)
+
 
 ## Scenarios
 
