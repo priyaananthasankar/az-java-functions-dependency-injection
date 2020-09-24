@@ -12,10 +12,10 @@ Azure Repos
 ## Scenarios
 
 - Be able to use Quarkus CDI for Java Azure Functions Dependency Injection (Learning)
-- Inject Azure Services by default, like Logging and Telemetry through App Insights (makes the code idiomatic to Java developer).
-- Inject Unit Testing like PowerMock, Mockito and Junit Mock.
 - Inject Custom Services like common utilities - if custom utility is built, it should be injectable, eg: custom exception handling, logging, validation
   eg: Be able to inject MongoDB dependency as explained in the problem [here](https://stackoverflow.com/questions/60548438/dependency-injection-ioc-in-java-azure-functions)
+- [VALIDATE] Inject Unit Testing like PowerMock, Mockito and Junit Mock.
+- [DISTRIBUTED TRACING] Inject Azure Services by default, like Logging and Telemetry through App Insights (makes the code idiomatic to Java developer).
   
 ## Benefits
 
